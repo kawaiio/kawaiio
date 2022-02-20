@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kawaiio
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on GIthub
+- 📫 How to reach me. Send a dm on twitter
